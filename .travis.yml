@@ -1,0 +1,11 @@
+language: java
+sudo: false
+
+jdk:
+    - openjdk8
+
+script: ./test.sh
+
+after_success:
+    - bash <(curl -s https://codecov.io/bash) -t 199036fc-8a16-414a-9ced-df5f5d0df93b
+
