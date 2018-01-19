@@ -44,7 +44,8 @@ Deve-se ainda informar um domínio para o retorno do Oauth2.
 
 1. <span id="R1">Spring Boot and OAuth2</span> - https://spring.io/guides/tutorials/spring-boot-oauth2
 2. <span id="R2">Using OAuth 2.0 to Access Google APIs</span> - https://developers.google.com/identity/protocols/OAuth2
-2. <span id="R3">OpenID Connect</span> - https://developers.google.com/identity/protocols/OpenIDConnect
+3. <span id="R3">OpenID Connect</span> - https://developers.google.com/identity/protocols/OpenIDConnect
+4. <span id="R4">Google OAuth2 Sign-In - Spring Boot Security in Google Cloud Platform</span> - https://www.youtube.com/watch?v=00-hMP2KKSs
 
 ## Ferramentas
 
